@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first official project with The Odin Project. This is an HTML project describing a food recipe. I have previous HTML experience but am attempting to build more skills and confidence
